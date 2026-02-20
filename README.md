@@ -1,2 +1,2 @@
 # js-Hemant
-This repository contains fundamental JavaScript concepts and practice projects for web development learning (For Beginner).
+This repository contains fundamental JavaScript and Node.js concepts with practice projects for beginners in web development.
