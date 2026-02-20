@@ -1,2 +1,2 @@
 # js-Hemant
-A code repo for javascript , use for web development etc.
+This repository contains fundamental JavaScript concepts and practice projects for web development learning (For Beginner).
